@@ -1,0 +1,6 @@
+.container {
+    width:100%;
+    height:400vh;
+    display: grid;
+    grid-template-rows: 25% 75%;
+}
